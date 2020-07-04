@@ -1,2 +1,2 @@
 # Data Structures - UCSD
-Contains codes for Assignments of UCSD course on Data Structures
+Contains codes of Assignments of Data Structures course by University of California San Diego.
